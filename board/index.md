@@ -7,9 +7,9 @@
 
 ## 게시글 목록(카테고리별)
 
-### [은택의 스마트폰 리뷰잉](/Taek-2_blog/board/cate1/)
+### [은택의 스마트폰 리뷰잉](/board/cate1/)
 
 
 
-### [은택의 PC/스마트폰 팁](/Taek-2_blog/board/cate2/)
+### [은택의 PC/스마트폰 팁](/board/cate2/)
 
